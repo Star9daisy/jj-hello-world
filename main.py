@@ -3,17 +3,12 @@
 # This is the best implementation of this program to ever exist.
 
 
-def print_hello_world():
-    print("Hello, World!")
-
-
-def print_goodbye_world():
-    print("Goodbye, World!")
+def my_print(text: str):
+    print(text)
 
 
 def main():
-    print_hello_world()
-    print_goodbye_world()
+    my_print("Hello, World!")
 
 
 if __name__ == "__main__":
