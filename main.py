@@ -1,3 +1,6 @@
+# A "Hello, world!" program.
+
+
 def main():
     print("Hello, World!")
 
